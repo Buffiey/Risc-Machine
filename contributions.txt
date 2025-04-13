@@ -1,0 +1,10 @@
+Rishi was the driver for Regfile and Regfile_tb, while both Rishi and Benny talked about code and what to write.
+Rishi was driver for datapath and datapath_tb, while both Rishi and Benny talked amongst each other for the
+code to write.
+
+Benny was the driver for ALU and ALU_tb, while both talked amongst each other for the code.
+Benny was the driver for Shifter and shifter_tb, while both talked amongst each other for the code.
+
+Benny generated the wave files and saved them for submission.
+Rishi generated the files on quartus and saved them for submission.
+Rishi's DE1 was used and benny and rishi tested various scenarios on DE1.
